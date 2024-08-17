@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python for beginners
 - 📫 How to reach me chaddapalak551@gmail.com
-- 😄 Pronouns: me and myself
 - ⚡ Fun fact: i m new to progrmming so HELLO WORLD!
 
 <!---
